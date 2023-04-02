@@ -1,4 +1,4 @@
-Tech enthusiast with an explosive mind. Let's talk ReactJS, NodeJS, VanillaJS and collaborate!!!
+Frontend React Developer
 
 
 You can reach me here smjssp@gmail.com
