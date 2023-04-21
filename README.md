@@ -1,7 +1,7 @@
 Frontend React Developer
 
 
-You can reach me here smjssp@gmail.com
+You can reach me here fatolu.stephen@gmail.com
 
 <!---
 devstephen/devstephen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
