@@ -1,4 +1,4 @@
-Frontend React Developer
+Backend developer with a passion for building and maintaining reliable, scalable, and secure web applications. Expertise in Javascript, React, NodeJS and RESTful APIs. 
 
 
 You can reach me here fatolu.stephen@gmail.com
